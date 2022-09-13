@@ -8,5 +8,8 @@
 - 💬 Ask me about mental health
 - 📫 How to reach me: @wambui_juddie
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love butterflies but hate one of it's stage of growth.
+
+
+Stack: Angular| Typescript | Javascript | NodeJs | ExpressJs | HTML5 | CSS3
+
 
