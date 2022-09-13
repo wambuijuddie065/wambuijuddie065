@@ -1,5 +1,5 @@
  Hi there 👋
- 
+ It's your tech girl Juddie
 
 
 - 🔭 I’m currently working on software development using Angular and NodeJs
