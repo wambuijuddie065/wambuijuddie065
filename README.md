@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Mobile App Development using React Native.
-- 📫 How to reach me: @wambui_juddie
+- 📫 How to reach me: wambuijuddie065@gmail.com
 - 😄 Pronouns: she/her
 
 
